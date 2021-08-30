@@ -1,0 +1,9 @@
+main: fr.uracraft.uraplug.UraPlug
+
+name: UraPlug
+
+description: Main plugin for UraCraft.
+
+author: Birdo770
+
+version: 4.0
